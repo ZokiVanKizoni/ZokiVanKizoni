@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @ZokiVanKizoni
-- 👀 I’m interested in Javascript programming and frontend developing, still lerning
-- 🌱 I’m currently learning JC, CSS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me well u can find me on Instagram as @_nikolicz_ ; also on Linkedin as Zoran Nikolic
+- 👀 I’m interested in Data analysis  and frontend developing, PowerBI, Tabelao,
+- 🌱 I’m currently learning SQL, DAX
+- 💞️ I’m looking to collaborate on this place
+- 📫 How to reach me well u can find me on Instagram as @_nikolicz_ ; also on Linkedin as Zoran Nikolic; or you can type me email on nikolicz1997@gmail.com
+- Thank you in advance!
 
 <!---
 ZokiVanKizoni/ZokiVanKizoni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
